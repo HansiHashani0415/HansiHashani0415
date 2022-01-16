@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hansi+Hashani..;Welcome+to+my+github+profile...">
 <!--
 **HansiHashani0415/HansiHashani0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
