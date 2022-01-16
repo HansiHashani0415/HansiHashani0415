@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hansi+Hashani..;Welcome+to+my+github+profile...">
 
-##  🌱 I’m currently learning at IJSE ..
-##  📫 Reach me through ..
+## I’m currently studying at IJSE ..
+## Reach me through ..
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![FaceBook][faceBook-shield]][faceBook-url]
