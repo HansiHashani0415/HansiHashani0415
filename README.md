@@ -1,9 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Hansi+Hashani..;Welcome+to+my+github+profile...">
 
 #### I’m currently studying at Institute of Java and Software Engineering - Galle ..
-#### Reach me through ..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepamedhan&label=Profile%20views&color=0e75b6&style=flat" alt="hansihashani0415" /> </p>
+
+#### Reach me through ..
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![FaceBook][faceBook-shield]][faceBook-url]
