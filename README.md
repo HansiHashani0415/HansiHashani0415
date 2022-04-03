@@ -10,6 +10,11 @@
 [![FaceBook][faceBook-shield]][faceBook-url]
 [![WhatsApp][whatsApp-shield]][whatsApp-url]
 
+<p align="left">
+<a href = ""><img style="width: 35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "hansi.hashani"><img style="width: 35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hansi-hashani-8a2540203
 
