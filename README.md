@@ -2,7 +2,7 @@
 
 #### I’m currently studying at Institute of Java and Software Engineering - Galle ..
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansihashani0415&label=Profile%20views&color=0e75b6&style=flat" alt="hansihashani0415" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HansiHashani0415&label=Profile%20views&color=0e75b6&style=flat" alt="HansiHashani0415" /> </p>
 
 #### Reach me through :
 
@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hansihashani0415&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Hansihashani0415" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansihashani0415&&theme=dark&hide_border=true" alt="Hansihashani0415" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HansiHashani0415&&theme=dark&hide_border=true" alt="HansiHashani0415" /></p>
 <!--
 **HansiHashani0415/HansiHashani0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
