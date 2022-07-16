@@ -11,7 +11,7 @@
 [![WhatsApp][whatsApp-shield]][whatsApp-url]
 
 <p align="left">
-<a href = ""><img style="width: 35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/58Hansi"><img style="width: 35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/hansi.hashani"><img style="width: 35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
